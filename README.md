@@ -5,13 +5,16 @@
 Portfolio website template created  using:
 Python, Django, PostgreSQL, HTML5, RWD, CSS3 , Bootstrap, pillow, jquery and javascript.
 
+![Shot](https://github.com/PeterGora/portfolio/blob/main/images/port.png?raw=true)
 
 
 --------------------
-# To run:
+# To run locally :
 
 pip install django
+
 pip install pillow
+
 pip install psycopg2
 
 
