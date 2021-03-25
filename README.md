@@ -2,7 +2,7 @@
 
 
 
-Portfolio website template created  using:
+Minimalistic Portfolio website template created  using:
 Python, Django, PostgreSQL, HTML5, RWD, CSS3 , Bootstrap, pillow, jquery and javascript.
 
 ![Shot](https://github.com/PeterGora/portfolio/blob/main/images/port1.png?raw=true)
